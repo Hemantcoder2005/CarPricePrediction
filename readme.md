@@ -9,8 +9,9 @@ To use the car price prediction model, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Hemantcoder2005/car-price-prediction.git
-
+git https://github.com/Hemantcoder2005/CarPricePrediction.git
+```
 2. Install the required dependencies. You can install them using pip:
 ``` bash
 pip install -r requirements.txt
+```
